@@ -10,7 +10,6 @@ This repository is designed to reinforce the knowledge already learned in previo
 * Build a Card Dealer
 * Game of War
 
-
 ---
 
 ### Exercise 1: 🧮 Create a Calculator

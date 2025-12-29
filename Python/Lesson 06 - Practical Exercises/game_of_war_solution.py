@@ -1,3 +1,17 @@
+# Somewhat building off of Exercise 3, create a program that randomly deals 
+# the player and an NPC an entire deck of cards split between the two of 
+# them (for 26 cards each). After the cards are dealt begin a new round each 
+# time the user inputs `+` and displaying the top card from each player's deck 
+# and awarding a point to the player with the highest numeric 
+# card (Ace = 1, King = 13, Queen = 12, Jack = 11). In the case cards of equal 
+# value are drawn, both players immediately draw again until one side draws a 
+# card of greater numeric value (if both players exhaust their cards no point 
+# is awarded to either side and the ultimate winner is announced). Once all 
+# cards are exhausted print a message to the screen honoring the winner of the 
+# game or announcing a tie. The player can quit the game at any time by 
+# typing `exit` whereupon a forfeit is announced. 
+
+
 import random
 
 # Suits and ranks
