@@ -1,6 +1,5 @@
 # Write a program that calculates however many semiprime 
-# numbers (the product of two prime numbers) the user 
-# specifies and print them to the screen.
+# numbers the user specifies and prints them to the screen.
 
 
 # Check if a number is prime

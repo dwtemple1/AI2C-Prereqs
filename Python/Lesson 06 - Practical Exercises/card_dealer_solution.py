@@ -1,9 +1,7 @@
-# Write a program that contains all 52 standard playing cards 
-# in a data structure and when the user instructs the program 
-# a random card is dealt to the user, printing it to the screen 
-# and removing it from the deck. The program should cycle through 
-# all 52 cards before it resets the deck again. 
-# User should be able to quit by typing 'exit'.
+# Write a program that contains all 52 standard playing cards in a data structure 
+# of your choice. After prompting, a random card is dealt to the user and it prints 
+# to the screen and is removed from the deck. The program should cycle through all 52 
+# cards before it resets the deck again. The user should be able to quit by typing 'exit'.
 
 
 import random
